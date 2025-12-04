@@ -1,0 +1,8 @@
+{
+  "project": "deskorganizer",
+  "description": "Automates organizing files in a folder into type-based subfolders",
+  "author": "Medha",
+  "created": "2025-12-04",
+  "tool": "Kiro",
+  "notes": "This directory is included to satisfy AI for Bharat submission requirement."
+}
